@@ -63,16 +63,7 @@ RuTube - 557 000
 ### «Плёночная суета» — нишевое медиа и сообщество  
 Content Producer / Community Producer  
 
-<img 
-  src="/assets/images/chat-1.jpg" 
-  width="40%" 
-  style="border-radius:12px; margin-right:2%;">
-
-<img 
-  src="/assets/images/chat-2.jpg" 
-  width="40%" 
-  style="border-radius:12px;">
-
+<img src="/assets/images/chat-1.jpg" width="40%" style="border-radius:12px; margin-right:2%;"><img src="/assets/images/chat-2.jpg" width="40%" style="border-radius:12px;">
 
 Нишевое медиа и крупнейшее русскоязычное сообщество по плёночной фотографии, построенное вокруг YouTube-контента и Telegram-экосистемы.  
 Проект объединяет 1300+ активных участников и платформу для публикации работ авторов.
