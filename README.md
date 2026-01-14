@@ -46,6 +46,7 @@ Content Producer / Video Producer
 ### Подкаст "Стартую себя"  
 Продюсер, режиссер, монтажер  
 
+<img src="/assets/images/podcast-10.jpg" width="60%">
 <img 
   src="/assets/images/podcast-10.jpg" 
   width="60%" 
