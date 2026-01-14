@@ -13,7 +13,7 @@
 
 Проект изначально существовал без стратегии, четкой роли ведущей и понимания, как подкаст может развиваться и зарабатывать.
 
-<img src="/assets/images/podcast-3.jpg" width="100%" style="border-radius:12px;">
+<img src="/assets/images/podcast-3.jpg" width="60%" style="border-radius:12px;">
 
 ## Что было сделано
 
@@ -53,7 +53,7 @@
 - привлекло новых партнеров
 - дало дополнительный PR
 
-<img src="/assets/images/podcast-4.jpg" width="100%" style="border-radius:12px;">
+<img src="/assets/images/podcast-4.jpg" width="60%" style="border-radius:12px;">
 
 ## Результаты
 
@@ -64,7 +64,7 @@
 
 Проект продолжил развитие в Москве.
 
-<img src="/assets/images/podcast-8.jpg" width="100%" style="border-radius:12px;">
+<img src="/assets/images/podcast-8.jpg" width="60%" style="border-radius:12px;">
 
 ## Цифры
 
@@ -81,7 +81,7 @@
 - Съемка и монтаж одного эпизода - 15 000 руб  
 - Продюсирование и редактура - 30 000 руб / месяц  
 
-<img src="/assets/images/podcast-11.jpg" width="100%" style="border-radius:12px;">
+<img src="/assets/images/podcast-11.jpg" width="60%" style="border-radius:12px;">
 
 ## Отзыв клиента
 
