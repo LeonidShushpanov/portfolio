@@ -129,14 +129,27 @@ Content Producer / Technical Producer / Director of Photography
 Заказчик отметил, что многие продакшены отказывались от проекта из-за сложности и стоимости, и именно моя производственная модель позволила реализовать этот формат.
 
 <div style="width:60%;">
-  <a href="https://vkvideo.ru/video-131021792_456240432" target="_blank">
+  <a 
+    href="https://vkvideo.ru/video-131021792_456240432" 
+    target="_blank"
+    style="text-decoration:none; color:inherit;"
+  >
     <img 
       src="/assets/images/mafia-vk-preview.png"
-      style="width:60%; border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.15);">
+      style="
+        width:100%;
+        border-radius:12px;
+        box-shadow:0 10px 30px rgba(0,0,0,0.15);
+      "
+    >
+    <div style="
+      font-size:14px;
+      color:#666;
+      margin-top:6px;
+    ">
+      ▶ Трейлер проекта «Мафия с падающими стульями»
+    </div>
   </a>
-  <div style="font-size:14px; color:#666; margin-top:6px;">
-    [▶ Трейлер проекта «Мафия с падающими стульями»](https://vkvideo.ru/video-131021792_456240432)
-  </div>
 </div>
 
 ---
