@@ -137,7 +137,7 @@ Content Producer / Technical Producer / Director of Photography
     <img 
       src="/assets/images/mafia-vk-preview.png"
       style="
-        width:100%;
+        width:60%;
         border-radius:12px;
         box-shadow:0 10px 30px rgba(0,0,0,0.15);
       "
