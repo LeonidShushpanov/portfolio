@@ -1,5 +1,7 @@
 # Выездные съемки подкастов на фестивалях "Влияние" и "ПапаЯ"
 
+<img src="/assets/images/papaja-3.jpg" width="60%" style="border-radius:12px;">  
+
 ## Роль
 Content Producer / Field Producer / Video Producer
 
