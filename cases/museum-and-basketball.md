@@ -77,8 +77,6 @@ Content Producer / Video Producer / Post-production
 - сетевому питанию оборудования  
 - возможности в реальном времени контролировать звук и картинку  
 
-Во время записи я корректировал положение микрофонов и камер в паузах и незаметные моменты, чтобы не нарушать живую динамику интервью.
-
 <div style="display:flex; gap:2%;">
   <img src="/assets/images/museum-sport-7.jpg" style="width:32%; border-radius:12px;">
   <img src="/assets/images/museum-sport-9.jpg" style="width:32%; border-radius:12px;">
@@ -121,7 +119,9 @@ Content Producer / Video Producer / Post-production
 Все материалы интегрированы в интерактивные стенды музея.  
 Посетители выбирают темы и слушают фрагменты интервью внутри экспозиции.
 
-На сайте музея я указан в составе команды проекта.
+[На сайте музея я указан в составе команды проекта.](https://tltmuseum.ru/ru/proekty/461-proekt-perekhod.html)  
+
+[Короткий видео бэкстейдж съемки проекта](https://disk.yandex.ru/i/z3UsWjVgjVISCw)  
 
 ---
 
