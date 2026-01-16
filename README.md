@@ -60,7 +60,7 @@ Content Producer / Video Producer
 ### Подкаст "Стартую себя"  
 Продюсер, режиссер, монтажер  
 
-<img src="/assets/images/podcast-9.jpg" width="60%" style="border-radius:12px;">
+<img src="/assets/images/podcast-9.jpg" width="100%" style="border-radius:12px;">
 
 Из любительского подкаста "на коленке" - в полноценный медиа-проект с монетизацией и офлайн-активностями.  
 Проект развивался и продюсировался в течение 6 месяцев.
@@ -89,7 +89,7 @@ Content Producer / Community Producer
 ### Шоу "Мафия с падающими стульями"  
 Content Producer / Technical Producer  
 
-<img src="/assets/images/mafia-vk-preview2.png" width="60%" style="border-radius:12px;">
+<img src="/assets/images/mafia-vk-preview2.png" width="100%" style="border-radius:12px;">
 
 Имиджевое шоу со спортивными звездами города Тольятти, снятое в формате одного непрерывного дубля с 12 участниками в кадре.
 
@@ -102,7 +102,7 @@ Content Producer / Technical Producer
 ### Интервью для экспозиций музея и подкасты Федерации баскетбола  
 Content Producer / Video Producer  
 
-<img src="/assets/images/museum-sport-6.jpg" width="60%" style="border-radius:12px;">
+<img src="/assets/images/museum-sport-6.jpg" width="100%" style="border-radius:12px;">
 
 Производство серий интервью и подкастов для государственных и спортивных организаций.  
 Съемки на нескольких локациях, полное техническое сопровождение и интеграция контента в интерактивные музейные экспозиции и официальные медиа Федерации.
@@ -114,7 +114,7 @@ Content Producer / Video Producer
 ### Выездные съемки подкастов на фестивалях  
 Content Producer / Field Producer  
 
-<img src="/assets/images/papaja-3.jpg" width="60%" style="border-radius:12px;">  
+<img src="/assets/images/papaja-3.jpg" width="100%" style="border-radius:12px;">  
 
 Организация мобильных подкаст-площадок на городских мероприятиях ("Влияние" и "ПапаЯ").  
 Создание форматов, выездной продакшен и запись контента в условиях живого ивента.
