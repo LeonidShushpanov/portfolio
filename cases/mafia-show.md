@@ -117,7 +117,7 @@ Content Producer / Technical Producer / Director of Photography
 
 <div style="display:flex; gap:2%;">
   <img src="/assets/images/mafia-back8.png" style="width:32%; border-radius:12px;">
-  <img src="/assets/images/mafia-back9.png" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/mafia-back11.png" style="width:32%; border-radius:12px;">
   <img src="/assets/images/mafia-back2.png" style="width:32%; border-radius:12px;">
 </div>
 
