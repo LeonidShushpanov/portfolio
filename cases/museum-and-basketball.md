@@ -1,5 +1,7 @@
 # Интервью для экспозиций музея и подкасты Федерации баскетбола Тольятти
 
+<img src="/assets/images/museum-sport-6.jpg" width="100%" style="border-radius:12px;">
+
 ## Роль
 Content Producer / Video Producer / Post-production
 
