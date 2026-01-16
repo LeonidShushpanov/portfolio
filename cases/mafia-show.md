@@ -90,6 +90,11 @@ Content Producer / Technical Producer / Director of Photography
 
 ### 4. Освещение
 
+<div style="display:flex; gap:2%;">
+  <img src="/assets/images/mafia-back1.png" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/mafia-back3.png" style="width:32%; border-radius:12px;">
+</div>
+
 Ключевой задачей было сохранить атмосферный свет шоу и при этом обеспечить читаемость лиц.
 
 Для этого я спроектировал и реализовал индивидуальное решение:
