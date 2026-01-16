@@ -6,7 +6,7 @@ Content Producer / Video Producer
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:24px;">
 
   <img 
-    src="/assets/images/portrait-small.jpg"
+    src="/assets/images/portrait-small1.jpg"
     width="96"
     height="96"
     style="
