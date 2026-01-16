@@ -72,6 +72,11 @@ Content Producer / Technical Producer / Director of Photography
 
 ### 3. Звук
 
+<div style="display:flex; gap:2%;">
+  <img src="/assets/images/mafia-back9.png" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/mafia-back10.png" style="width:32%; border-radius:12px;">
+</div>
+
 Запись 12 спикеров радиосистемами была технически и финансово нецелесообразна.
 
 Я спроектировал централизованную схему:
