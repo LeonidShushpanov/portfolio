@@ -22,7 +22,7 @@ Content Producer / Technical Producer / Director of Photography
 - полноценное покрытие всех игроков  
 - стабильную запись звука  
 - сохранение драматургии и атмосферы игры  
-- техническую надежность на протяжении всей съемки  
+- стабильную и контролируемую запись на протяжении всей съемки  
 
 Проект требовал решений уровня полноценного продакшена при ограниченном бюджете и отсутствии стандартных технических комплектов.
 
@@ -58,15 +58,16 @@ Content Producer / Technical Producer / Director of Photography
   <img src="/assets/images/mafia-back4.png" style="width:32%; border-radius:12px;">
   <img src="/assets/images/mafia-back6.png" style="width:32%; border-radius:12px;">
   <img src="/assets/images/mafia-back7.png" style="width:32%; border-radius:12px;">
-</div>  
+</div>
 
+<br>
 
 Из-за отсутствия одинаковых камер в аренде использовались:
 - Sony FX30 (2 шт)  
 - Panasonic GH5  
 - Canon R  
 
-Я провел расчет кроп-факторов и подобрал оптику таким образом, чтобы все камеры работали в едином эквиваленте 24–70 мм.  
+Я провел расчет кроп-факторов и подобрал оптику таким образом, чтобы все камеры работали в едином эквивалентном фокусном расстоянии 24–70 мм.  
 Дополнительно были согласованы лог-профили, экспозиция и цветовые настройки для получения единого визуального стиля в условиях низкой освещенности.
 
 ---
@@ -76,14 +77,15 @@ Content Producer / Technical Producer / Director of Photography
 <div style="display:flex; gap:2%;">
   <img src="/assets/images/mafia-back9.png" style="width:32%; border-radius:12px;">
   <img src="/assets/images/mafia-back10.png" style="width:32%; border-radius:12px;">
-</div>  
+</div>
 
+<br>
 
 Запись 12 спикеров радиосистемами была технически и финансово нецелесообразна.
 
 Я спроектировал централизованную схему:
 - 4 подкастных микрофона, расположенных в центре стола  
-- каждый микрофон обслуживал трех ближайших участников  
+- каждый микрофон "слушал" трех ближайших участников  
 - ведущий в соседнем помещении был записан напрямую с его микшерного пульта на отдельный рекордер  
 
 Это позволило сохранить контроль над всеми аудиоканалами и обеспечить стабильную запись без потерь.
@@ -95,8 +97,9 @@ Content Producer / Technical Producer / Director of Photography
 <div style="display:flex; gap:2%;">
   <img src="/assets/images/mafia-back1.png" style="width:32%; border-radius:12px;">
   <img src="/assets/images/mafia-back3.png" style="width:32%; border-radius:12px;">
-</div>  
+</div>
 
+<br>
 
 Ключевой задачей было сохранить атмосферный свет шоу и при этом обеспечить читаемость лиц.
 
@@ -122,8 +125,9 @@ Content Producer / Technical Producer / Director of Photography
   <img src="/assets/images/mafia-back8.png" style="width:32%; border-radius:12px;">
   <img src="/assets/images/mafia-back11.png" style="width:32%; border-radius:12px;">
   <img src="/assets/images/mafia-back2.png" style="width:32%; border-radius:12px;">
-</div>  
+</div>
 
+<br>
 
 Я отвечал за:
 - логистику всего оборудования  
