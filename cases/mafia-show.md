@@ -60,6 +60,7 @@ Content Producer / Technical Producer / Director of Photography
   <img src="/assets/images/mafia-back7.png" style="width:32%; border-radius:12px;">
 </div>  
 
+
 Из-за отсутствия одинаковых камер в аренде использовались:
 - Sony FX30 (2 шт)  
 - Panasonic GH5  
@@ -76,6 +77,7 @@ Content Producer / Technical Producer / Director of Photography
   <img src="/assets/images/mafia-back9.png" style="width:32%; border-radius:12px;">
   <img src="/assets/images/mafia-back10.png" style="width:32%; border-radius:12px;">
 </div>  
+
 
 Запись 12 спикеров радиосистемами была технически и финансово нецелесообразна.
 
@@ -94,6 +96,7 @@ Content Producer / Technical Producer / Director of Photography
   <img src="/assets/images/mafia-back1.png" style="width:32%; border-radius:12px;">
   <img src="/assets/images/mafia-back3.png" style="width:32%; border-radius:12px;">
 </div>  
+
 
 Ключевой задачей было сохранить атмосферный свет шоу и при этом обеспечить читаемость лиц.
 
@@ -120,6 +123,7 @@ Content Producer / Technical Producer / Director of Photography
   <img src="/assets/images/mafia-back11.png" style="width:32%; border-radius:12px;">
   <img src="/assets/images/mafia-back2.png" style="width:32%; border-radius:12px;">
 </div>  
+
 
 Я отвечал за:
 - логистику всего оборудования  
