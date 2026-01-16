@@ -121,7 +121,7 @@ Content Producer / Video Producer / Post-production
 
 [На сайте музея я указан в составе команды проекта.](https://tltmuseum.ru/ru/proekty/461-proekt-perekhod.html)  
 
-[Короткий видео бэкстейдж съемки проекта](https://disk.yandex.ru/i/z3UsWjVgjVISCw)  
+[Короткий видео бэкстейдж съемки проекта для музея.](https://disk.yandex.ru/i/z3UsWjVgjVISCw)  
 
 ---
 
@@ -133,7 +133,7 @@ Content Producer / Video Producer / Post-production
 - [Кирилл Ладыгин (Lada Sport Rosneft)](https://vksport.vkvideo.ru/video-131021792_456240311) - 28 500 просмотров  
 - [Дмитрий Рябыкин (президент Тольяттинской футбольной лиги)](https://vksport.vkvideo.ru/video-131021792_456240361) - 26 100 просмотров  
 
-[Короткий видео бэкстейдж съемки проекта](https://disk.yandex.ru/i/miQvi0gLx7EvcQ)  
+[Короткий видео бэкстейдж съемки проекта для ФБТ.](https://disk.yandex.ru/i/miQvi0gLx7EvcQ)  
 
 ---
 
