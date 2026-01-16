@@ -171,4 +171,4 @@ Content Producer / Video Producer с 10-летним опытом в созда�
 
 Telegram: [@velikor](https://t.me/velikor)  
 VK: [vk.com/albunite](https://vk.com/albunite)  
-Email: [albunite@ya.ru](mailto:albunite@ya.ru)
+Email: [albunite@ya.ru](mailto:albunite@ya.ru?subject=Вакансия Content Producer)
