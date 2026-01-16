@@ -133,6 +133,8 @@ Content Producer / Video Producer / Post-production
 - [Кирилл Ладыгин (Lada Sport Rosneft)](https://vksport.vkvideo.ru/video-131021792_456240311) - 28 500 просмотров  
 - [Дмитрий Рябыкин (президент Тольяттинской футбольной лиги)](https://vksport.vkvideo.ru/video-131021792_456240361) - 26 100 просмотров  
 
+[Короткий видео бэкстейдж съемки проекта](https://disk.yandex.ru/i/miQvi0gLx7EvcQ)  
+
 ---
 
 ## Формат сотрудничества
