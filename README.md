@@ -25,6 +25,16 @@ Content Producer / Video Producer
 
 Я не просто снимаю видео - я помогаю превращать контент в работающий медиа-продукт.
 
+---
+
+## Резюме
+
+Опыт работы, роли и ключевые навыки — в отдельной странице.
+
+→ [Открыть резюме](https://leonidshushpanov.github.io/resume/)
+
+---
+
 <div style="display:flex; gap:2%;">
   <img src="/assets/images/work-1-2.png" style="width:32%; border-radius:12px;">
   <img src="/assets/images/work-2.jpg" style="width:32%; border-radius:12px;">
