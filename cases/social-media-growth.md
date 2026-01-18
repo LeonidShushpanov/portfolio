@@ -1,6 +1,8 @@
 # Личные соцсети как лаборатория контент-форматов  
 Content Producer / Video Producer
 
+<img src="/assets/images/social-1.jpg" width="100%" style="border-radius:12px;">
+
 ## Контекст
 
 На протяжении более 10 лет я развиваю собственные медиа-площадки в YouTube, TikTok и Instagram* как экспериментальную среду для тестирования форматов, тем, подачи и работы алгоритмов.
@@ -12,11 +14,11 @@ Content Producer / Video Producer
 
 Этот опыт напрямую используется мной в продюсировании клиентских и авторских проектов.
 
-<!--
-Тут уместен общий скрин:
-— сетка профиля YouTube / TikTok
-— или коллаж из трёх платформ, показывающий, что это разные среды
--->
+<div style="display:flex; gap:2%;">
+  <img src="/assets/images/social-2.jpg" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/social-3.jpg" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/social-4.jpg" style="width:32%; border-radius:12px;">
+</div>
 
 ---
 
@@ -41,11 +43,10 @@ YouTube стал основной площадкой для:
 - работы со структурой выпуска
 - понимания удержания и глубины просмотра
 
-<!--
-Здесь лучше всего:
-— скрин страницы канала с количеством подписчиков
-— + 1–2 превью видео с большим количеством просмотров
--->
+<div style="display:flex; gap:2%;">
+  <img src="/assets/images/social-5.jpg" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/social-6.jpg" style="width:32%; border-radius:12px;">
+</div>
 
 ---
 
@@ -72,11 +73,10 @@ TikTok дал практическое понимание:
 - работы с холодной аудиторией
 - упаковки сложных тем в короткий формат
 
-<!--
-Здесь идеально:
-— скрин сетки профиля TikTok, отсортированной по популярности
-— или скрин одного ролика с 2–8 млн просмотров
--->
+<div style="display:flex; gap:2%;">
+  <img src="/assets/images/social-7.jpg" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/social-8.jpg" style="width:32%; border-radius:12px;">
+</div>
 
 ---
 
@@ -93,11 +93,10 @@ Instagram использовался как:
 - тест среды Reels
 - визуальное портфолио и личный бренд
 
-<!--
-Тут достаточно:
-— аккуратного скрина сетки профиля
-— без упора на цифры, скорее визуальный характер
--->
+<div style="display:flex; gap:2%;">
+  <img src="/assets/images/social-9.jpg" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/social-10.jpg" style="width:32%; border-radius:12px;">
+</div>
 
 ---
 
@@ -111,10 +110,7 @@ Instagram использовался как:
 - навык адаптации одного смысла под разные площадки
 - осознание ограничений и сильных сторон каждой платформы
 
-<!--
-Здесь можно вообще без скринов,
-либо вставить 1 нейтральный — рабочий процесс / монтаж / съёмка
--->
+<img src="/assets/images/social-11.jpg" width="100%" style="border-radius:12px;">
 
 ---
 
@@ -126,6 +122,10 @@ Instagram использовался как:
 - понимаю алгоритмы изнутри,
 - говорю с авторами и заказчиками на одном языке,
 - принимаю продюсерские решения, опираясь на реальные данные, а не теорию.
+
+YouTube: https://www.youtube.com/@Albunite
+TikTok: https://www.tiktok.com/@velikorec
+Instagram*: https://www.instagram.com/albugram
 
 ---
 
