@@ -73,9 +73,18 @@ TikTok дал практическое понимание:
 - работы с холодной аудиторией
 - упаковки сложных тем в короткий формат
 
+<!--
 <div style="display:flex; gap:2%;">
   <img src="/assets/images/social-7.jpg" style="width:32%; border-radius:12px;">
   <img src="/assets/images/social-8.jpg" style="width:32%; border-radius:12px;">
+</div>
+-->
+
+<div style="display:flex; gap:2%;">
+  <img src="/assets/images/social-7.jpg"
+       style="width:32%; height:400px; object-fit:cover; border-radius:12px;">
+  <img src="/assets/images/social-8.jpg"
+       style="width:32%; height:400px; object-fit:cover; border-radius:12px;">
 </div>
 
 ---
@@ -124,9 +133,9 @@ Instagram использовался как:
 - говорю с авторами и заказчиками на одном языке,
 - принимаю продюсерские решения, опираясь на реальные данные, а не теорию.
 
-YouTube: https://www.youtube.com/@Albunite
-TikTok: https://www.tiktok.com/@velikorec
-Instagram*: https://www.instagram.com/albugram
+YouTube: https://www.youtube.com/@Albunite  
+TikTok: https://www.tiktok.com/@velikorec  
+Instagram*: https://www.instagram.com/albugram  
 
 ---
 
